@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "adrum/laravel-jetstream-react-typescript",
+    "name": "andrewperoramas/react-sass",
     "type": "project",
     "description": "A starter kit for the Laravel framework using Jetstream, Inertia.js, React (TS), and HeadlessUI.",
     "keywords": [
